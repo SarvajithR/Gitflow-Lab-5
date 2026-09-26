@@ -10,7 +10,8 @@ Demonstrate Gitflow using Git, GitHub, VS Code, branches, commits, pushes, mergi
 - feature/conflict
 
 ## Login Feature
-The `app.py` program demonstrates a simple login function.
+
+The `app.py` program demonstrates a login system with secure authentication.
 
 ## Gitflow
 1. Create and connect the GitHub repository.
